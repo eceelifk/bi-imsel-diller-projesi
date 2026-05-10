@@ -1,8 +1,5 @@
 # =================================================================
-# Ad Soyad: Elif Ece Kavak
-# Öğrenci No: 231201024
-# Ders: BLG306 - Biçimsel Diller ve Otomatlar
-# Proje: Basit Bir Lexical Analyzer (Arayüzlü Versiyon)
+# Proje: Basit Bir Lexical Analyzer 
 # =================================================================
 
 import tkinter as tk
